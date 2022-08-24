@@ -7,6 +7,3 @@ class Solution:
                 magazine = magazine.replace(i, '', 1)
 
         return True
-
-
-print(Solution().canConstruct('batata', 'batata'))

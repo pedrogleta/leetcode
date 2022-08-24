@@ -32,6 +32,3 @@ class Solution:
             lastCharacter = char
 
         return result
-
-
-print(Solution().romanToInt('MCMXCIV'))

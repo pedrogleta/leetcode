@@ -23,26 +23,3 @@ func twoSum(nums []int, target int) []int {
 	return make([]int, 0)
 
 }
-
-/**
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
- */
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
-func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
-
-	return &ListNode{}
-
-}
-
-func main() {
-
-}
